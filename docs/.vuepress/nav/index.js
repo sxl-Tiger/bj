@@ -15,7 +15,7 @@ module.exports = [
           },
           {
             text: "JS",
-            link: "/1.前端/JS/1.数据类型.md",
+            link: "/1.前端/JS/变量.md",
           },
           {
             text: "TS",
